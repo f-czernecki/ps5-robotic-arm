@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Visual Studio Code
+.vscode/
+
+# Arduino IDE build files
+build/
+core/
+*.hex
+*.bin
