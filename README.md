@@ -27,7 +27,7 @@ This is my first robotics project, designed to explore the use of high-torque se
 * **Servo Limitations & Torque Constraints:** Realized that standard servos limit continuous rotation and angle range, making it difficult to integrate custom gearing (like planetary gearboxes) to boost torque.
 * **3D Printing & Part Splitting:** Learned how to break down complex 3D models into smaller parts so they print cleanly, require less support, and assemble securely.
 * **Cable & Fastener Design:** Planned screw placement (using brass threaded inserts) and created internal channels to hide wiring and keep the assembly neat.
-
+* **Mechanical Joint Coupling & Backlash:** Resolving how to securely attach the servo shafts to the shoulder and elbow joints took the most time. Overcame issues with joint play and backlash to ensure the arm remains rigid and stable under load.
 ## Future Improvements
 
 * **Custom End-Effector:** Design and integrate a functional gripper.
